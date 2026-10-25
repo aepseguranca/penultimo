@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aepseguranca.com.br/sitemap.xml
